@@ -1,2 +1,2 @@
 # OXYGEN Ecommerce Shop
-This is a training project from Oxygen Ac
+This is a training project from Oxygen Aca
